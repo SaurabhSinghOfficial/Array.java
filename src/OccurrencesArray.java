@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class OccurrencesArray {
+
+//    Question :- Create a program to find number of occurrences of an elements in an array
+
     public static void main(String[] args) {
         Scanner input =new Scanner(System.in);
 //for create an array

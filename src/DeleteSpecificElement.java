@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class DeleteSpecificElement {
+
+//    Question:- Create a program to return a new array deleting a specific element.
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

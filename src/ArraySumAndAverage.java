@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class ArraySumAndAverage {
+
+// Question:- Create a program to find the sum and average of all elements in an array
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter the number of  element ");

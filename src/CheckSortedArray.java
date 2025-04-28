@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class CheckSortedArray {
+
+//    Create a program to check if the given array is sorted
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

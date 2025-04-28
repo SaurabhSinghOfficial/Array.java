@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class MaxAndMinArray {
+
+//    Question:- Create a program to find the maximum and minimum elements in an array
+
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
