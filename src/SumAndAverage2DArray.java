@@ -43,7 +43,13 @@ public class SumAndAverage2DArray {
         return sum;
     }
     public static double average(int[][] numArr){
-        double sum = sum(numArr);
-        return (sum/ numArr.length);
+        if(numArr.length == 0){
+            return 0;
+        }
+        int row = numArr.length;
+        int  cols = numArr[0].length;
+        double size = row*cols;
+
+        return sum(numArr)/(size);
     }
 }
